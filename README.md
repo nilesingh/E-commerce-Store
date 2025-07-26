@@ -38,7 +38,7 @@ This project is perfect for learning frontend web development or showcasing your
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/nilesingh/ecommerce-website.git
+   git clone https://github.com/nilesingh/E-commerce-Store.git
 ````
 
 2. **Navigate into the folder:**
