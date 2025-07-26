@@ -67,13 +67,6 @@ This project is open-source and free to use under the [MIT License](LICENSE).
 
 Feel free to fork the repository, customize the design, or use it in your own portfolio!
 
-
----
-
-Let me know if you’d like:
-- Live demo link setup via GitHub Pages
-- A Hindi translation
-- MIT `LICENSE` file  
-- Auto-deployment CI via GitHub Actions
+-----
 
 Happy coding, Nilesh Singh! 🔥
